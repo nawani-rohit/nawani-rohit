@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **MERN stack, Android, Java, Python**
 
-- 📫 How to reach me **rohitsnawani11@gmail.com**
+- 📫 How to reach me **rohit.nawani1198@gmail.com**
 
 - 📄 Know about my experiences [https://rohitnawani.vercel.app/static/media/Rohit_Nawani_Resume.b8d7c429efe7b1aa6774.pdf](https://rohitnawani.vercel.app/static/media/Rohit_Nawani_Resume.b8d7c429efe7b1aa6774.pdf)
 <br />
